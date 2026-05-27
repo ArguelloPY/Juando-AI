@@ -1,6 +1,7 @@
 #  Local AI Environment & Juando Chatbot
 
-A fully private, offline AI environment running open-source large language models (LLMs) on local hardware — no subscriptions, no data leaving your machine. Includes a custom-built chatbot frontend called **Juando**.
+A fully private, offline AI environment running open-source large language models (LLMs) on local hardware.
+No subscriptions and no data leaving your machine. Includes a custom-built chatbot frontend called **Juando**.
 
 ---
 
